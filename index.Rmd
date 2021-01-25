@@ -1,6 +1,6 @@
 ---
 title: "Frank Hermosillo"
-image: "img/frank.jpg"
+image: "img/frankh.jpg"
 links:
   - label: LinkedIn
     url: "https://linkedin.com/"
